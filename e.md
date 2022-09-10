@@ -1,1 +1,12 @@
-# qqqqqqqqqq
+- VSCode 
+
+- Git, GitHub
+
+- Python 
+
+- Java Script
+
+
+
+# language
+- English - A1
